@@ -92,6 +92,9 @@ git checkout -b $DEPLOY_BRANCH
 # Export JEKYLL_ENV=production
 export JEKYLL_ENV=production
 
+# Sync CV publications from BibTeX before building.
+python3 bin/sync_cv_publications_from_bib.py
+
 # Build site
 bundle exec jekyll build
 

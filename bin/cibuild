@@ -1,1 +1,2 @@
+python3 bin/sync_cv_publications_from_bib.py
 bundle exec jekyll build

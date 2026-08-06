@@ -1,0 +1,15 @@
+light:
+  arxiv: "#D93341"
+  quantum: "#806B9C"
+  communphys: "#c49a00"
+  prappl: "#0D70E8"
+  jpmater: "#ccddf6"
+  prl: "#4A7D79"
+
+dark:
+  arxiv: "#AA142D"
+  quantum: "#582C84"
+  communphys: "#9B5240"
+  prappl: "#0A56D5"
+  jpmater: "#5F5FB4"
+  prl: "#1f3131"

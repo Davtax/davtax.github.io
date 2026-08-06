@@ -1,9 +1,23 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"arXiv":
+  # url: https://arxiv.org/
+  color: "var(--arxiv-badge-color)"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Quantum":
+  # url: https://quantum-journal.org/
+  color: "var(--quantum-badge-color)"
 
-"Vision":
-  color: "#009f36"
+"Commun. Phys.":
+  # url: https://www.nature.com/commsphys/
+  color: "var(--communphys-badge-color)"
+
+"Phys. Rev. Appl.":
+  # url: https://journals.aps.org/prapplied/
+  color: "var(--prappl-badge-color)"
+
+"J. Phys.: Mater.":
+  # url: https://iopscience.iop.org/journal/2515-7639
+  color: "var(--jpmater-badge-color)"
+
+"Phys. Rev. Lett.":
+  # url: https://journals.aps.org/prl/
+  color: "var(--prl-badge-color)"

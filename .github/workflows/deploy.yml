@@ -84,6 +84,9 @@ jobs:
           cache: "npm"
       - name: Install JS deps 📦
         run: npm ci
+      - name: Sync CV publications from BibTeX
+        run: |
+          python3 bin/sync_cv_publications_from_bib.py
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
