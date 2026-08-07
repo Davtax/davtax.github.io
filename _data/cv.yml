@@ -1,9 +1,9 @@
 cv:
-  name: David Fernandez Fernandez
+  name: David Fernández Fernández
   label: Postdoctoral Researcher
   email: david.fernandez.fernandez@uni-a.de
   location: University of Augsburg, Augsburg 86159, Germany
-  image: assets/img/UniA.jpg
+  photo: ../assets/img/UniA.jpg
   summary: Researcher in quantum information and semiconductor spin qubits, with focus on scalable control, spin-orbit interactions, and shuttling-based architectures.
   social_networks:
     - network: ORCID
@@ -11,6 +11,8 @@ cv:
     - network: GitHub
       username: Davtax
   sections:
+    # Profile:
+    #   - Researcher in quantum information and semiconductor spin qubits, with focus on scalable control, spin-orbit interactions, and shuttling-based architectures.
     Education:
       - institution: University of Augsburg
         location: Augsburg, Germany
@@ -79,11 +81,24 @@ cv:
       - name: Programming
         level: Advanced
         icon: fa-solid fa-code
-        keywords: Python, C++, MATLAB, Mathematica, LaTeX
+        keywords:
+          - Python
+          - C++
+          - MATLAB
+          - Mathematica
+          - LaTeX
       - name: Research Tooling
         level: Advanced
         icon: fa-solid fa-laptop
-        keywords: HPC Clusters, QuTiP, Qiskit, Git, GitHub, PyCharm, VSCode, Jupyter Notebooks
+        keywords:
+          - HPC Clusters
+          - QuTiP
+          - Qiskit
+          - Git
+          - GitHub
+          - PyCharm
+          - VSCode
+          - Jupyter Notebooks
     Languages:
       - name: Spanish
         summary: Native

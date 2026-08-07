@@ -21,3 +21,5 @@ __pycache__/
 *.pyc
 
 .vscode/
+
+assets/rendercv/rendercv_output/*.typ

@@ -38,6 +38,10 @@ latest_posts:
   --{{ item[0] }}-badge-color: {{ item[1] }};
   {%- endfor -%}
   }
+
+  .social .contact-icons {
+  font-size: 3rem;
+  }
 </style>
 
 I am a physicist working on quantum information processing with semiconductor spin qubits. My research focuses on scalable quantum computation through spin control, long-range shuttling, and spin-orbit-driven gate operations in quantum dot platforms.
