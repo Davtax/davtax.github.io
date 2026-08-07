@@ -73,7 +73,7 @@ jobs:
         run: python3 bin/sync_cv_publications_from_bib.py
 
       - name: Run style contract lint 🧷
-        run: npm run lint:style-contract
+        run: bundle exec al-folio upgrade overrides audit --fail-on-stale
 
       - name: Install build prerequisites 🔧
         run: |

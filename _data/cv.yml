@@ -6,86 +6,86 @@ cv:
   image: assets/img/UniA.jpg
   summary: Researcher in quantum information and semiconductor spin qubits, with focus on scalable control, spin-orbit interactions, and shuttling-based architectures.
   social_networks:
-  - network: ORCID
-    username: 0000-0001-7163-8464
-  - network: GitHub
-    username: Davtax
+    - network: ORCID
+      username: 0000-0001-7163-8464
+    - network: GitHub
+      username: Davtax
   sections:
     Education:
-    - institution: University of Augsburg
-      location: Augsburg, Germany
-      area: Physics
-      studyType: Postdoctoral Researcher
-      start_date: 2026
-      end_date: present
-    - institution: Universidad Autonoma de Madrid  | Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC)
-      location: Madrid, Spain
-      area: Physics
-      studyType: PhD
-      start_date: 2020
-      end_date: 2026
-      score: Sobresaliente Cum Laude
-      highlights:
-      - 'Supervisor: Gloria Platero Coello'
-      - 'Thesis: Towards Scalable Quantum Computation: Control and Shuttling of Hole Spin Qubits'
-    - institution: Universidad Autonoma de Madrid
-      location: Madrid, Spain
-      area: Theoretical Physics
-      studyType: Master
-      start_date: 2019
-      end_date: 2020
-      highlights:
-      - 'Supervisor: Gloria Platero Coello'
-      - 'Thesis: Hole Spin Qubits in Quantum Dots'
-    - institution: Universidad Autonoma de Madrid
-      location: Madrid, Spain
-      area: Physics
-      studyType: Bachelor
-      start_date: 2015
-      end_date: 2019
-      highlights:
-      - 'Experimental thesis: Growth of $\mathrm{Au_2Pb}$ and $\mathrm{AuPb_2}$ crystals and transport characterization'
-      - 'Theoretical thesis: Hole qubits in semiconductor quantum dots'
+      - institution: University of Augsburg
+        location: Augsburg, Germany
+        area: Physics
+        studyType: Postdoctoral Researcher
+        start_date: 2026
+        end_date: present
+      - institution: Universidad Autonoma de Madrid  | Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC)
+        location: Madrid, Spain
+        area: Physics
+        studyType: PhD
+        start_date: 2020
+        end_date: 2026
+        score: Sobresaliente Cum Laude
+        highlights:
+          - "Supervisor: Gloria Platero Coello"
+          - "Thesis: Towards Scalable Quantum Computation: Control and Shuttling of Hole Spin Qubits"
+      - institution: Universidad Autonoma de Madrid
+        location: Madrid, Spain
+        area: Theoretical Physics
+        studyType: Master
+        start_date: 2019
+        end_date: 2020
+        highlights:
+          - "Supervisor: Gloria Platero Coello"
+          - "Thesis: Hole Spin Qubits in Quantum Dots"
+      - institution: Universidad Autonoma de Madrid
+        location: Madrid, Spain
+        area: Physics
+        studyType: Bachelor
+        start_date: 2015
+        end_date: 2019
+        highlights:
+          - 'Experimental thesis: Growth of $\mathrm{Au_2Pb}$ and $\mathrm{AuPb_2}$ crystals and transport characterization'
+          - "Theoretical thesis: Hole qubits in semiconductor quantum dots"
     Journal Publications:
-    - bullet: '[Spin qubit operations by conveyor-mode shuttling](https://doi.org/10.48550/arXiv.2606.21452). M. De Smet, Y. Matsumoto, D. Fernandez-Fernandez, L. Tryputen, S. L. de Snoo, D. J. Michalak, H. G. J. Eenink, G. Platero, S. Bosco, G. Scappucci, L. M. K. Vandersypen. *arXiv:2606.21452* (2026).'
-    - bullet: '[Unifying adiabatic state-transfer protocols with (alpha, beta)-hypergeometries](https://doi.org/10.48550/arXiv.2504.08031). C. Ventura Meinersen, D. Fernandez-Fernandez, G. Platero, M. Rimbach-Russ. *arXiv:2504.08031* (2025).'
-    - bullet: '[Long-range transport in asymmetric quadruple quantum dot configurations](https://doi.org/10.1038/s42005-025-02319-3). D. Fernandez-Fernandez, J. C. Bayer, R. J. Haug, G. Platero. *Communications Physics **8**, 410* (2025).'
-    - bullet: '[Spin-orbit-enabled realization of arbitrary two-qubit gates on moving spins](https://doi.org/10.48550/arXiv.2508.08394). D. Fernandez-Fernandez, Y. Matsumoto, L. M. K. Vandersypen, G. Platero, S. Bosco. *arXiv:2508.08394* (2025).'
-    - bullet: '[Flying Spin Qubits in Quantum Dot Arrays Driven by Spin-Orbit Interaction](https://doi.org/10.22331/q-2024-11-21-1533). D. Fernandez-Fernandez, Y. Ban, G. Platero. *Quantum **8**, 1533* (2024).'
-    - bullet: '[Photo-assisted spin transport in double quantum dots with spin-orbit interaction](https://doi.org/10.1088/2515-7639/acd1b7). D. Fernandez-Fernandez, J. Pico Cortes, S. Vela Linan, G. Platero. *Journal of Physics: Materials **6**, 034004* (2023).'
-    - bullet: '[Hardware-efficient entangled measurements for variational quantum algorithms](https://doi.org/10.1103/PhysRevApplied.20.034044). F. Escudero, D. Fernandez-Fernandez, G. Jauma, G. F. Penas, L. Pereira. *Physical Review Applied **20**, 034044* (2023).'
-    - bullet: '[Tunable Directional Emission and Collective Dissipation with Quantum Metasurfaces](https://doi.org/10.1103/PhysRevLett.128.113601). D. Fernandez-Fernandez, A. Gonzalez-Tudela. *Physical Review Letters **128**, 113601* (2022).'
-    - bullet: '[Quantum Control of Hole Spin Qubits in Double Quantum Dots](https://doi.org/10.1103/PhysRevApplied.18.054090). D. Fernandez-Fernandez, Y. Ban, G. Platero. *Physical Review Applied **18**, 054090* (2022).'
+      - bullet: "[Spin qubit operations by conveyor-mode shuttling](https://doi.org/10.48550/arXiv.2606.21452). M. De Smet, Y. Matsumoto, D. Fernandez-Fernandez, L. Tryputen, S. L. de Snoo, D. J. Michalak, H. G. J. Eenink, G. Platero, S. Bosco, G. Scappucci, L. M. K. Vandersypen. *arXiv:2606.21452* (2026)."
+      - bullet: "[Unifying adiabatic state-transfer protocols with (alpha, beta)-hypergeometries](https://doi.org/10.48550/arXiv.2504.08031). C. Ventura Meinersen, D. Fernandez-Fernandez, G. Platero, M. Rimbach-Russ. *arXiv:2504.08031* (2025)."
+      - bullet: "[Long-range transport in asymmetric quadruple quantum dot configurations](https://doi.org/10.1038/s42005-025-02319-3). D. Fernandez-Fernandez, J. C. Bayer, R. J. Haug, G. Platero. *Communications Physics **8**, 410* (2025)."
+      - bullet: "[Spin-orbit-enabled realization of arbitrary two-qubit gates on moving spins](https://doi.org/10.48550/arXiv.2508.08394). D. Fernandez-Fernandez, Y. Matsumoto, L. M. K. Vandersypen, G. Platero, S. Bosco. *arXiv:2508.08394* (2025)."
+      - bullet: "[Flying Spin Qubits in Quantum Dot Arrays Driven by Spin-Orbit Interaction](https://doi.org/10.22331/q-2024-11-21-1533). D. Fernandez-Fernandez, Y. Ban, G. Platero. *Quantum **8**, 1533* (2024)."
+      - bullet: "[Photo-assisted spin transport in double quantum dots with spin-orbit interaction](https://doi.org/10.1088/2515-7639/acd1b7). D. Fernandez-Fernandez, J. Pico Cortes, S. Vela Linan, G. Platero. *Journal of Physics: Materials **6**, 034004* (2023)."
+      - bullet: "[Hardware-efficient entangled measurements for variational quantum algorithms](https://doi.org/10.1103/PhysRevApplied.20.034044). F. Escudero, D. Fernandez-Fernandez, G. Jauma, G. F. Penas, L. Pereira. *Physical Review Applied **20**, 034044* (2023)."
+      - bullet: "[Tunable Directional Emission and Collective Dissipation with Quantum Metasurfaces](https://doi.org/10.1103/PhysRevLett.128.113601). D. Fernandez-Fernandez, A. Gonzalez-Tudela. *Physical Review Letters **128**, 113601* (2022)."
+      - bullet: "[Quantum Control of Hole Spin Qubits in Double Quantum Dots](https://doi.org/10.1103/PhysRevApplied.18.054090). D. Fernandez-Fernandez, Y. Ban, G. Platero. *Physical Review Applied **18**, 054090* (2022)."
     Teaching Experience:
-    - bullet: '**2024 - 2025** - Teaching Assistant, Physics II (Chemical Engineering), Universidad Autonoma de Madrid.'
-    - bullet: '**2023 - 2024** - Teaching Assistant, Physics I (Chemical Engineering), Universidad Autonoma de Madrid.'
-    - bullet: '**2021 - 2023** - Teaching Assistant, Physics I (Environmental Sciences), Universidad Autonoma de Madrid.'
-    - bullet: '**2025 - 2026** - Master Thesis Supervision: Paula Villanua Cordero. Multiport quantum router enabled by Floquet engineering in quantum dot chains.'
-    - bullet: '**2024 - 2025** - Master Thesis Supervision: Jose Manuel Montes Armenteros. Steady-state current characterization of a double quantum dot system.'
-    - bullet: '**2023 - 2024** - Bachelor Thesis Supervision: Joel Martinez. Dynamics of semiconductor quantum dots.'
+      - bullet: "**2024 - 2025** - Teaching Assistant, Physics II (Chemical Engineering), Universidad Autonoma de Madrid."
+      - bullet: "**2023 - 2024** - Teaching Assistant, Physics I (Chemical Engineering), Universidad Autonoma de Madrid."
+      - bullet: "**2021 - 2023** - Teaching Assistant, Physics I (Environmental Sciences), Universidad Autonoma de Madrid."
+      - bullet: "**2025 - 2026** - Master Thesis Supervision: Paula Villanua Cordero. Multiport quantum router enabled by Floquet engineering in quantum dot chains."
+      - bullet: "**2024 - 2025** - Master Thesis Supervision: Jose Manuel Montes Armenteros. Steady-state current characterization of a double quantum dot system."
+      - bullet: "**2023 - 2024** - Bachelor Thesis Supervision: Joel Martinez. Dynamics of semiconductor quantum dots."
     Certifications:
-    - bullet: '**2024** - High-performance computing with Python (Julich Supercomputing Centre).'
-    - bullet: '**2023** - Efficient use of HPC resources (CSIC).'
-    - bullet: '**2023** - Quantum Many Body Systems and Quantum Information (ICMAT).'
-    - bullet: '**2022** - Nanotechnology Meets Quantum Information (NanoQI''22).'
-    - bullet: '**2022** - Fundamentals of Accelerated Computing with CUDA Python (NVIDIA Deep Learning Institute).'
+      - bullet: "**2024** - High-performance computing with Python (Julich Supercomputing Centre)."
+      - bullet: "**2023** - Efficient use of HPC resources (CSIC)."
+      - bullet: "**2023** - Quantum Many Body Systems and Quantum Information (ICMAT)."
+      - bullet: "**2022** - Nanotechnology Meets Quantum Information (NanoQI'22)."
+      - bullet: "**2022** - Fundamentals of Accelerated Computing with CUDA Python (NVIDIA Deep Learning Institute)."
     Grants and Awards:
-    - bullet: '**2021** - FPU Fellowship for PhD Studies (Spanish Ministry of Education).'
-    - bullet: '**2021** - Garantia Juvenil Fellowship (Comunidad Autonoma de Madrid).'
-    - bullet: '**2021** - Winning Team, Qiskit Hackathon Europe Research Study Groups (IBM Qiskit). Project title: Hardware Efficient VQE.'
-    - bullet: '**2020** - JAE Intro Research Grant (IFF-CSIC).'
-    - bullet: '**2019** - Fomento a la Investigacion Grant for Master Studies (Universidad Autonoma de Madrid).'
+      - bullet: "**2021** - FPU Fellowship for PhD Studies (Spanish Ministry of Education)."
+      - bullet: "**2021** - Garantia Juvenil Fellowship (Comunidad Autonoma de Madrid)."
+      - bullet: "**2021** - Winning Team, Qiskit Hackathon Europe Research Study Groups (IBM Qiskit). Project title: Hardware Efficient VQE."
+      - bullet: "**2020** - JAE Intro Research Grant (IFF-CSIC)."
+      - bullet: "**2019** - Fomento a la Investigacion Grant for Master Studies (Universidad Autonoma de Madrid)."
     Skills:
-    - name: Programming
-      level: Advanced
-      icon: fa-solid fa-code
-      keywords: Python, C++, MATLAB, Mathematica, LaTeX
-    - name: Research Tooling
-      level: Advanced
-      icon: fa-solid fa-laptop
-      keywords: HPC Clusters, QuTiP, Qiskit, Git, GitHub, PyCharm, VSCode, Jupyter Notebooks
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: Python, C++, MATLAB, Mathematica, LaTeX
+      - name: Research Tooling
+        level: Advanced
+        icon: fa-solid fa-laptop
+        keywords: HPC Clusters, QuTiP, Qiskit, Git, GitHub, PyCharm, VSCode, Jupyter Notebooks
     Languages:
-    - name: Spanish
-      summary: Native
-    - name: English
-      summary: Fluent
+      - name: Spanish
+        summary: Native
+      - name: English
+        summary: Fluent

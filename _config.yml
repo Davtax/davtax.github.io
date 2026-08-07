@@ -4,7 +4,7 @@
 
 title: David Fernandez Fernandez
 first_name: David
-middle_name: 
+middle_name:
 last_name: Fernández Fernández
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -172,8 +172,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
-external_sources:
-  []
+external_sources: []
 
 # -----------------------------------------------------------------------------
 # Newsletter
